@@ -3,16 +3,12 @@
 This repository contains the code submission to the ERR@HRI 2024 Challenge at ICMI 2024 from the PRISCA team.
 
 ## Publication
-Please read our paper for more details about our approach here 
-
-[https://dl.acm.org/doi/abs/10.1145/3678957.3688387]
+Please read our paper for more details about our approach here https://dl.acm.org/doi/abs/10.1145/3678957.3688387
 
 
 # Data
 
-To get the data, please ask the challenge organizers. More infor at 
-
-[https://arxiv.org/abs/2407.06094]
+To get the data, please ask the challenge organizers. More info at https://arxiv.org/abs/2407.06094
 
 ## Preprocessing
 There are two steps to reproduce the preprocessing for training and validation. 
